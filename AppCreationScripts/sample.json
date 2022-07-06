@@ -43,7 +43,7 @@
       "SettingFile": "\\..\\app_config.py",
       "Mappings": [
         {
-          "key": "Enter_the_Tenant_Name_Here",
+          "key": "Petalm Africa Group Pty Ltd",
           "value": "$tenantName"
         },
         {
